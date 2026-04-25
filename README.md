@@ -1,8 +1,8 @@
-# [Tytuł mini-projektu]
+# Analiza Bezpieczeństwa LLM
 
-**Autor:** [Imię Nazwisko], nr indeksu: [XXXXXX]
+**Autor:** Radosław Małek, nr indeksu: 263448
 
-**Temat:** [Numer z menu (1-29) lub "własny"] — [Nazwa tematu]
+**Temat:** 12 — Prompt injection — testy bezpieczeństwa LLM
 
 **Kurs:** Aspekty prawne, społeczne i etyczne w AI, PWr 2025/2026
 
